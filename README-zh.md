@@ -255,7 +255,8 @@ mcp_client.call_tool("add_text", {
 
 
 ## 进群交流
-![交流群](https://github.com/user-attachments/assets/955b6717-1cee-44d8-9ae5-c4a4e849fd14)
+![交流群](https://github.com/user-attachments/assets/5830a4f0-0f5e-4c83-baa8-7cc364ec20e6)
+
 
 
 
